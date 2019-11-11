@@ -1,0 +1,3 @@
+// $ANTLR : Whitespace.g -> WhitespaceParserTokenTypes.txt$
+WhitespaceParser    // output token vocab name
+WS=4

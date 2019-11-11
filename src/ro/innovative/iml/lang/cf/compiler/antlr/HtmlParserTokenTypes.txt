@@ -1,0 +1,4 @@
+// $ANTLR : Html.g -> HtmlParserTokenTypes.txt$
+HtmlParser    // output token vocab name
+TEXT=4
+NL=5

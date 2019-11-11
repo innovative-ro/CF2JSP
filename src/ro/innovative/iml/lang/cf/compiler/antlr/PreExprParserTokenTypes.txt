@@ -1,0 +1,21 @@
+// $ANTLR : PreExpr.g -> PreExprParserTokenTypes.txt$
+PreExprParser    // output token vocab name
+CAB=4
+WS=5
+SH=6
+ID=7
+POINT=8
+SGEQ=9
+STRING=10
+STRINGSQ=11
+OB=12
+CB=13
+OSB=14
+CSB=15
+CAT=16
+PLUS=17
+MINUS=18
+COM=19
+NUMBER=20
+LETTER=21
+DIGIT=22

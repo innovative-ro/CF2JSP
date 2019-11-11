@@ -1,0 +1,4 @@
+// $ANTLR : HtmlComment.g -> HtmlCommentParserTokenTypes.txt$
+HtmlCommentParser    // output token vocab name
+COMMENT=4
+COMMENT_DATA=5

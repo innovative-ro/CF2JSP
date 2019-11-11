@@ -1,0 +1,4 @@
+// $ANTLR : Text.g -> TextParserTokenTypes.txt$
+TextParser    // output token vocab name
+TEXT=4
+NL=5

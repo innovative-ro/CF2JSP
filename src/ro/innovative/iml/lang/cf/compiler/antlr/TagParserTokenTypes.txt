@@ -1,0 +1,3 @@
+// $ANTLR : Tag.g -> TagParserTokenTypes.txt$
+TagParser    // output token vocab name
+TEXT=4

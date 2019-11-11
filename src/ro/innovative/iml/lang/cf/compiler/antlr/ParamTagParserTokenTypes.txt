@@ -1,0 +1,10 @@
+// $ANTLR : ParamTag.g -> ParamTagParserTokenTypes.txt$
+ParamTagParser    // output token vocab name
+IDENT=4
+EQ=5
+STRING=6
+DSTRING=7
+NUMBER=8
+SLASH=9
+CB=10
+WS=11

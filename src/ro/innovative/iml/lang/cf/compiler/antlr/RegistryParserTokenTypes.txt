@@ -1,0 +1,6 @@
+// $ANTLR : Registry.g -> RegistryParserTokenTypes.txt$
+RegistryParser    // output token vocab name
+HSTRING=4
+STRING=5
+EQ=6
+WS=7
